@@ -5,9 +5,9 @@ Contiene los elementos mínimos a compartir con cada equipo
 
 ___
 
-## Miembros del Equipo 1
+## :busts_in_silhouette: Miembros del Equipo 1
 
-:busts_in_silhouette: Los miembros del Equipo 1 son:  
+Los miembros del Equipo 1 son:  
 
 1. Rubén Fernandez
 2. Gleb Nesterov
