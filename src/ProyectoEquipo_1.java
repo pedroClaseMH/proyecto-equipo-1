@@ -11,9 +11,10 @@ package com.mycompany.proyecto.equipo_1;
 public class ProyectoEquipo_1 {
 
     public static void main(String[] args) {
-        int[][] pro = new int[5][5];
+        //Este programa crea una tabla de 5x5 con un array bidimensional
+        int[][] pro = new int[5][5];//Array bidimensional
         
-        for (int i = 0; i < pro.length; i++) {
+        for (int i = 0; i < pro.length; i++) {//estructura de control que rellena el array
             for (int j = 0; j < pro.length; j++) {
                 System.out.print(pro[i][j]);
             }
