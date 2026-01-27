@@ -1,0 +1,2 @@
+Un fallo podría producirse al darle valor a las variables, si se introduce cualquier dato que 
+no sea un número entero.
