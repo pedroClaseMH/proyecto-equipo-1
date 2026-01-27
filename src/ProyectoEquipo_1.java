@@ -20,6 +20,8 @@ public class ProyectoEquipo_1 {
                 System.out.print(pro[i][j]);
             }
             System.out.println("");
+
+            //8. el programa funciona correctamente, por consola saca un array 5x5 
         }
         
     }
