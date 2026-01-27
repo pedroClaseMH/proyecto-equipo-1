@@ -11,6 +11,7 @@ package com.mycompany.proyecto.equipo_1;
 public class ProyectoEquipo_1 {
 
     public static void main(String[] args) {
+        System.out.println("TABLA DE 5x5 CON ARRAY BIDIMENSIONAL");
         //Este programa crea una tabla de 5x5 con un array bidimensional
         int[][] pro = new int[5][5];//Array bidimensional
         
