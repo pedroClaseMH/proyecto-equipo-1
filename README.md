@@ -16,3 +16,5 @@ Los miembros del Equipo 1 son:
 
 ___
 
+Guía de estilo para escribir en MarkDown (README.md): 
+[Visit Live Site](https://www.markdownguide.org/basic-syntax/)
