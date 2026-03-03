@@ -11,9 +11,15 @@
 
 6. sumar cero con número positivo | "0 + 2 = 2" |
 
-7. sumar el valor máximo que pueda tener un int (64 bit pero ya seria long long)"9.223.372.036.854.775.807 + 5 = no deja introducir los números tan grandes"
-						(32 bit unsigned) "4.294.967.295 + 5 = no deja introducir los números tan grandes"
-						(32 bit signed) "2.147.483.647 + 5 = -2147483644" (da la vuelta al int y nos sale un numero negativo)
+7. sumar el valor máximo que pueda tener un int 
+
+	(64 bit pero ya seria long long) | "9.223.372.036.854.775.807 + 5 = no deja introducir los números tan grandes"| 
+
+	(32 bit unsigned) | "4.294.967.295 + 5 = no deja introducir los números tan grandes" |
+
+	(32 bit signed) | "2.147.483.647 + 5 = -2147483644" (da la vuelta al int y nos sale un numero negativo) |
+
+
 
 		EN CASO DE QUE PUEDA SER DOUBLE/CHAR...
 
