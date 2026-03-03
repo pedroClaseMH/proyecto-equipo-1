@@ -12,3 +12,9 @@ Aquí es donde el equipo debe:
 - No borrar archivos de otros compañeros sin avisar.
 - El código debe estar ordenado y comentado de forma básica.
 
+### Actualización de carpeta src (Gleb)
+Se ha creado
+- Archivo Media.java
+Se ha actualizado 
+- Archivo README.md
+
