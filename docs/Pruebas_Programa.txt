@@ -1,0 +1,15 @@
+Pruebas para el programa Ejemplo_basico
+
+1/ Introducir una opción que no sea un numero
+2/ Introducir una opción menor que 0
+3/ introducir una opción mayor de 3
+4/ Introducir solo números en nombre
+5/ Introducir las opciones limites (0 y 3)
+6/ Introducir una opción dentro de los limites
+
+
+A=17 
+
+N=12 
+
+A-N+2= 17 –12 +2 = 7 
